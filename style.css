@@ -25,10 +25,11 @@
     color: #031540;
     text-decoration: none;
     font-weight: 700;
-
-     
 }
+.logo:hover{
+    text-shadow: 0px 0px 10px #00abf0 ;
 
+}
 .navbar a{
     font-size: 18px;
     color: #fff;
@@ -63,8 +64,18 @@
     border-radius: 50%;
     border: 25px solid #fff;
     outline: 25px solid #031540;
+}
+div.home-image img{
+    width: 400px;
+    height: 450px;
+    border-radius: 50%;
+    margin-top: 45px;
+    /* box-shadow: 0px 0px 100px #00abf0; */
+}
 
-
+div.home-image img:hover{
+    outline: 25px solid #00abf0;
+    
 }
 .home-image img{
     position: relative;
