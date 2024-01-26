@@ -12,7 +12,7 @@ Welcome to the Mehmet Doğan Web Page project. This page showcases Mehmet Doğan
 
 ## Live Demo
 
-You can view the live demo of the Mehmet Doğan Web Page [here](https://your-live-demo-link.com).
+You can view the live demo of the Mehmet Doğan Web Page [here](https://portfolio-mehmet-alpha.vercel.app/).
 
 ## Description
 
@@ -36,6 +36,8 @@ To run the Mehmet Doğan Web Page locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-## License
+# GitHub Repository
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can follow the development of this project on GitHub. Feel free to star the repository to show your support.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View%20Repository-blue)](https://github.com/Mehmet-github06)
